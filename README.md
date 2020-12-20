@@ -8,5 +8,5 @@ It is the better version than my [original snake game](https://github.com/aabish
   
 ## How to use:
 1. Download [LÖVE](https://love2d.org/).
-2. Clone this project either by downloading zip or with git clone https://github.com/aabishkaryal/cs50-snake.git
+2. Clone this project either by downloading zip or with `git clone https://github.com/aabishkaryal/cs50-snake.git`
 3. Drag the project directory to love.exe or shortcut to love.exe.
