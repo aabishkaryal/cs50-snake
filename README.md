@@ -1,6 +1,7 @@
 # cs50: Snake
 This is my final project for the [Harvard CS50X](https://cs50.harvard.edu/x/2020) course. 
 It is the classic snake game implemented in lua(LÖVE).
+It is the better version than my [original snake game](https://github.com/aabishkaryal/SnakeGame) made with p5js. 
 
 ## Requirements:
   [LÖVE](https://love2d.org/)
